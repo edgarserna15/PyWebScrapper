@@ -1,9 +1,10 @@
 from bs4 import BeautifulSoup
+import request
 from urllib2 import urlopen
 
 class WebScrapper(object):
 
-    BASE_URL = "http://www.chicagorader.com"
+    BASE_URL = ""
     
     def __init__(self):
         print "hello"
@@ -19,4 +20,12 @@ class WebScrapper(object):
 
 if __name__ == "__main__":
     Scrappy = WebScrapper()
-    Data = Scrappy.get_data_links("/chicago/best-of-chicago-2011-food-drink/BestOf?oid=4106228")
+    url = raw_input("Enter a website to exctract the URL's from: ")
+    r = requests.get("http://" + url)
+    data = r.text
+    soup = BeautifulSoup(data)
+    for link in soup.find_all('a'):
+        print(link.get('href'))
+    
+
+
