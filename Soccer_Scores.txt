@@ -1,43 +1,363 @@
-﻿Barclays Premier League
-(1 Game)
-Spanish Super Cup
-(1 Game)
-Italian Coppa Italia
-(2 Games)
-Portuguese Liga
-(1 Game)
-Russian Premier League
-(1 Game)
-Turkish Super Lig
-(1 Game)
-Primera División de Argentina
-(2 Games)
-Danish SAS-Ligaen
-(1 Game)
-German 2. Bundesliga
-(1 Game)
-French Ligue 2
-(1 Game)
-Dutch Eerste Divisie
-(1 Game)
-Swedish Allsvenskanliga
+﻿UEFA Champions League
+(5 Games)
+
+Astana 1964
+Apoel Nicosia
+Lazio
+Bayer Leverkusen
+Manchester United
+Club Brugge
+Sporting Lisbon
+CSKA Moscow
+BATE Borisov
+Partizan Belgrade
+English League Championship
+(8 Games)
+
+Blackburn Rovers
+Cardiff City
+Brentford
+Birmingham City
+Derby County
+Middlesbrough
+Huddersfield Town
+Brighton & Hove Albion
+Ipswich Town
+Burnley
+Milton Keynes Dons
+Bolton Wanderers
+Nottingham Forest
+Charlton Athletic
+Rotherham United
+Preston North End
+CONCACAF Champions League
 (3 Games)
-League of Ireland Premier Division
+
+U.A.N.L
+Metapan
+Hankook Verdes
+Queretaro
+LA Galaxy
+Comunicaciones
+English League One
+(10 Games)
+
+Peterborough United
+Sheffield United
+Blackpool
+Burton Albion
+Bradford City
+Gillingham
+Bury
+Fleetwood Town
+Colchester United
+Oldham Athletic
+Coventry City
+Crewe Alexandra
+Millwall
+Barnsley
+Rochdale
+Walsall
+Shrewsbury Town
+Chesterfield
+Swindon Town
+Port Vale
+English League Two
+(12 Games)
+
+Accrington Stanley
+Mansfield Town
+AFC Wimbledon
+Cambridge United
+Barnet
+Northampton Town
+Crawley Town
+Portsmouth
+Dagenham & Redbridge
+Exeter City
+Hartlepool United
+Newport County
+Leyton Orient
+Stevenage
+Luton Town
+Bristol Rovers
+Morecambe
+Wycombe Wanderers
+Oxford United
+Notts County
+Plymouth Argyle
+Carlisle United
+York City
+Yeovil Town
+English Conference
+(12 Games)
+
+Aldershot Town
+Dover
+Altrincham
+Grimsby Town
+Barrow
+Guiseley
+Boreham Wood
+Forest Green Rovers
+Bromley
+Braintree Town
+Chester City
+Cheltenham Town
+Kidderminster Harriers
+Wrexham
+Lincoln City
+Macclesfield Town
+Southport
+Gateshead
+Torquay United
+Woking
+Tranmere Rovers
+Halifax
+Welling
+Eastleigh
+Scottish League Challenge Cup
 (6 Games)
-Primera División de Chile
-(1 Game)
-Primera División de Venezuela
-(1 Game)
-Nacional B de Argentina
-(3 Games)
+
+Forfar Athletic
+Dunfermline Athletic
+Queen's Park
+Dumbarton
+Falkirk
+Peterhead
+Stenhousemuir
+Raith Rovers
+Annan Athletic
+St Mirren
+Queen of the South
+Livingston
+Copa MX
+(9 Games)
+
+Correcaminos
+León
+Coras Tepic
+Guadalajara
+U. de G.
+Dorados de Sinaloa
+Puebla
+Lobos BUAP
+Atlante
+Cruz Azul
+UNAM
+Cafetaleros de Tapachula
+Necaxa
+Tijuana
+Murcielagos FC
+Atlas
+Veracruz
+Celaya
+Copa Sudamericana
+(5 Games)
+
+Bolívar
+Defensor Sporting
+Melgar
+Atlético Junior
+Deportivo La Guaira
+U. Católica
+Libertad
+Santiago Wanderers
+Brasilia
+Goiás EC
 Primera División B de Argentina
-(4 Games)
-Colombia Segunda División
 (2 Games)
+
+Deportivo Armenio
+Platense
+Deportivo Español
+Estudiantes de Caseros
 Primera División C de Argentina
-(2 Games)
+(3 Games)
+
+Argentino Quilmes
+Cañuelas
+Deportivo Laferrere
+Argentino Merlo
+Midland
+Juventud Unida San Miguel
 Primera División D de Argentina
+(2 Games)
+
+Claypole
+El Porvenir
+Ituzaingó
+Deportivo Paraguayo
+South African Premiership
 (1 Game)
+
+Orlando Pirates
+Chippa United
+UEFA Champions League
+(5 Games)
+
+UEFA Champions League
+(5 Games)
+
+UEFA Champions League
+(5 Games)
+
+Astana 1964
+Lazio
+Manchester United
+Sporting Lisbon
+BATE Borisov
+English League Championship
+(8 Games)
+
+Blackburn Rovers
+Brentford
+Derby County
+Huddersfield Town
+Ipswich Town
+Milton Keynes Dons
+Nottingham Forest
+Rotherham United
+CONCACAF Champions League
+(3 Games)
+
+U.A.N.L
+Hankook Verdes
+LA Galaxy
+English League One
+(10 Games)
+
+Peterborough United
+Blackpool
+Bradford City
+Bury
+Colchester United
+Coventry City
+Millwall
+Rochdale
+Shrewsbury Town
+Swindon Town
+English League Two
+(12 Games)
+
+Accrington Stanley
+AFC Wimbledon
+Barnet
+Crawley Town
+Dagenham & Redbridge
+Hartlepool United
+Leyton Orient
+Luton Town
+Morecambe
+Oxford United
+Plymouth Argyle
+York City
+English Conference
+(12 Games)
+
+Aldershot Town
+Altrincham
+Barrow
+Boreham Wood
+Bromley
+Chester City
+Kidderminster Harriers
+Lincoln City
+Southport
+Torquay United
+Tranmere Rovers
+Welling
+Scottish League Challenge Cup
+(6 Games)
+
+Forfar Athletic
+Queen's Park
+Falkirk
+Stenhousemuir
+Annan Athletic
+Queen of the South
+Copa MX
+(9 Games)
+
+Correcaminos
+Coras Tepic
+U. de G.
+Puebla
+Atlante
+UNAM
+Necaxa
+Murcielagos FC
+Veracruz
+Copa Sudamericana
+(5 Games)
+
+Bolívar
+Melgar
+Deportivo La Guaira
+Libertad
+Brasilia
+Primera División B de Argentina
+(2 Games)
+
+Deportivo Armenio
+Deportivo Español
+Primera División C de Argentina
+(3 Games)
+
+Argentino Quilmes
+Deportivo Laferrere
+Midland
+Primera División D de Argentina
+(2 Games)
+
+Claypole
+Ituzaingó
+South African Premiership
+(1 Game)
+
+Orlando Pirates
+UEFA Champions League
+(5 Games)
+
+UEFA Champions League
+(5 Games)
+
+English League Championship
+(8 Games)
+
+CONCACAF Champions League
+(3 Games)
+
+English League One
+(10 Games)
+
+English League Two
+(12 Games)
+
+English Conference
+(12 Games)
+
+Scottish League Challenge Cup
+(6 Games)
+
+Copa MX
+(9 Games)
+
+Copa Sudamericana
+(5 Games)
+
+Primera División B de Argentina
+(2 Games)
+
+Primera División C de Argentina
+(3 Games)
+
+Primera División D de Argentina
+(2 Games)
+
+South African Premiership
+(1 Game)
+
 Barclays Premier League
 (1 Game)
 
@@ -97,4 +417,1345 @@ Primera División C de Argentina
 
 Primera División D de Argentina
 (1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+Barclays Premier League
+(1 Game)
+
+Spanish Super Cup
+(1 Game)
+
+Italian Coppa Italia
+(2 Games)
+
+Portuguese Liga
+(1 Game)
+
+Russian Premier League
+(1 Game)
+
+Turkish Super Lig
+(1 Game)
+
+Primera División de Argentina
+(2 Games)
+
+Danish SAS-Ligaen
+(1 Game)
+
+German 2. Bundesliga
+(1 Game)
+
+French Ligue 2
+(1 Game)
+
+Dutch Eerste Divisie
+(1 Game)
+
+Swedish Allsvenskanliga
+(3 Games)
+
+League of Ireland Premier Division
+(6 Games)
+
+Primera División de Chile
+(1 Game)
+
+Primera División de Venezuela
+(1 Game)
+
+Nacional B de Argentina
+(3 Games)
+
+Primera División B de Argentina
+(4 Games)
+
+Colombia Segunda División
+(2 Games)
+
+Primera División C de Argentina
+(2 Games)
+
+Primera División D de Argentina
+(1 Game)
+
+UEFA Champions League
+(5 Games)
+
+Major League Soccer
+(2 Games)
+
+English League Championship
+(4 Games)
+
+North American Soccer League
+(1 Game)
+
+Women's International Friendly
+(1 Game)
+
+CONCACAF Champions League
+(3 Games)
+
+English League One
+(2 Games)
+
+Scottish League Challenge Cup
+(2 Games)
+
+Copa Argentina
+(1 Game)
+
+Copa Do Brazil
+(5 Games)
+
+Primera División de Chile
+(1 Game)
+
+Fútbol Profesional Colombiano
+(3 Games)
+
+Copa MX
+(5 Games)
+
+Malaysian Super League
+(6 Games)
+
+Singapore S-League
+(2 Games)
+
+Copa Sudamericana
+(7 Games)
+
+Nacional B de Argentina
+(1 Game)
+
+Primera División B de Argentina
+(1 Game)
+
+Primera División D de Argentina
+(1 Game)
+
+Thai Premier League
+(9 Games)
+
+Nigeria Professional League
+(6 Games)
 
