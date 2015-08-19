@@ -1,1761 +1,887 @@
-﻿UEFA Champions League
+﻿League: Barclays Premier League
+(2 Games)
+
+
+Team 1: Crystal Palace Score: 1
+Team 2: Arsenal Score: 2
+Time  : FT
+
+
+Team 1: Manchester City Score: 3
+Team 2: Chelsea Score: 0
+Time  : FT
+
+
+League: German Bundesliga
+(2 Games)
+
+
+Team 1: VfL Wolfsburg Score: 2
+Team 2: Eintracht Frankfurt Score: 1
+Time  : FT
+
+
+Team 1: VfB Stuttgart Score: 1
+Team 2: FC Cologne Score: 3
+Time  : FT
+
+
+League: Major League Soccer
+(2 Games)
+
+
+Team 1: Seattle Sounders FC Score: 4
+Team 2: Orlando City SC Score: 0
+Time  : FT
+
+
+Team 1: Philadelphia Union Score: 3
+Team 2: Chicago Fire Score: 3
+Time  : FT
+
+
+League: French Ligue 1
+(3 Games)
+
+
+Team 1: Stade de Reims Score: 1
+Team 2: Marseille Score: 0
+Time  : FT
+
+
+Team 1: Lorient Score: 1
+Team 2: Bastia Score: 1
+Time  : FT
+
+
+Team 1: Paris Saint-Germain  Score: 2
+Team 2: GFC Ajaccio  Score: 0
+Time  : FT
+
+
+League: Italian Coppa Italia
+(3 Games)
+
+
+Team 1: Udinese Score: 3
+Team 2: Novara Score: 1
+Time  : FT
+
+
+Team 1: Carpi Score: 2
+Team 2: Livorno Score: 0
+Time  : FT
+
+
+Team 1: Torino Score: 4
+Team 2: US Pescara Score: 1
+Time  : FT
+
+
+League: Dutch Eredivisie
+(4 Games)
+
+
+Team 1: PSV Eindhoven Score: 2
+Team 2: FC Groningen Score: 0
+Time  : FT
+
+
+Team 1: Cambuur Leeuwarden Score: 0
+Team 2: Feyenoord Rotterdam Score: 2
+Time  : FT
+
+
+Team 1: FC Utrecht Score: 1
+Team 2: Heerenveen Score: 1
+Time  : FT
+
+
+Team 1: SC Heracles Almelo Score: 3
+Team 2: NEC Nijmegen Score: 0
+Time  : FT
+
+
+League: English League Championship
+(2 Games)
+
+
+Team 1: Wolverhampton Wanderers Score: 1
+Team 2: Hull City Score: 1
+Time  : FT
+
+
+Team 1: Reading Score: 0
+Team 2: Leeds United Score: 0
+Time  : FT
+
+
+League: Mexican Liga MX
+(1 Game)
+
+
+Team 1: Toluca Score: 3
+Team 2: Guadalajara Score: 1
+Time  : FT
+
+
+League: North American Soccer League
+(1 Game)
+
+
+Team 1: FC Edmonton Score: 3
+Team 2: Carolina RailHawks Score: 0
+Time  : FT
+
+
+League: Portuguese Liga
 (5 Games)
 
-Astana 1964
-Apoel Nicosia
-Lazio
-Bayer Leverkusen
-Manchester United
-Club Brugge
-Sporting Lisbon
-CSKA Moscow
-BATE Borisov
-Partizan Belgrade
-English League Championship
-(8 Games)
 
-Blackburn Rovers
-Cardiff City
-Brentford
-Birmingham City
-Derby County
-Middlesbrough
-Huddersfield Town
-Brighton & Hove Albion
-Ipswich Town
-Burnley
-Milton Keynes Dons
-Bolton Wanderers
-Nottingham Forest
-Charlton Athletic
-Rotherham United
-Preston North End
-CONCACAF Champions League
+Team 1: Uniao da Madeira Score: 2
+Team 2: Maritimo Score: 1
+Time  : FT
+
+
+Team 1: Vitoria Setubal Score: 2
+Team 2: Boavista Score: 2
+Time  : FT
+
+
+Team 1: Moreirense Score: 0
+Team 2: Arouca Score: 2
+Time  : FT
+
+
+Team 1: Braga Score: 2
+Team 2: CD Nacional de Madeira Score: 1
+Time  : FT
+
+
+Team 1: Benfica Score: 4
+Team 2: Estoril Score: 0
+Time  : FT
+
+
+League: Russian Premier League
 (3 Games)
 
-U.A.N.L
-Metapan
-Hankook Verdes
-Queretaro
-LA Galaxy
-Comunicaciones
-English League One
-(10 Games)
 
-Peterborough United
-Sheffield United
-Blackpool
-Burton Albion
-Bradford City
-Gillingham
-Bury
-Fleetwood Town
-Colchester United
-Oldham Athletic
-Coventry City
-Crewe Alexandra
-Millwall
-Barnsley
-Rochdale
-Walsall
-Shrewsbury Town
-Chesterfield
-Swindon Town
-Port Vale
-English League Two
-(12 Games)
+Team 1: Lokomotiv Moscow Score: 0
+Team 2: Terek Grozny Score: 0
+Time  : FT
 
-Accrington Stanley
-Mansfield Town
-AFC Wimbledon
-Cambridge United
-Barnet
-Northampton Town
-Crawley Town
-Portsmouth
-Dagenham & Redbridge
-Exeter City
-Hartlepool United
-Newport County
-Leyton Orient
-Stevenage
-Luton Town
-Bristol Rovers
-Morecambe
-Wycombe Wanderers
-Oxford United
-Notts County
-Plymouth Argyle
-Carlisle United
-York City
-Yeovil Town
-English Conference
-(12 Games)
 
-Aldershot Town
-Dover
-Altrincham
-Grimsby Town
-Barrow
-Guiseley
-Boreham Wood
-Forest Green Rovers
-Bromley
-Braintree Town
-Chester City
-Cheltenham Town
-Kidderminster Harriers
-Wrexham
-Lincoln City
-Macclesfield Town
-Southport
-Gateshead
-Torquay United
-Woking
-Tranmere Rovers
-Halifax
-Welling
-Eastleigh
-Scottish League Challenge Cup
-(6 Games)
+Team 1: Dinamo Moscow Score: 1
+Team 2: Ural Sverdlovsk Oblast Score: 0
+Time  : FT
 
-Forfar Athletic
-Dunfermline Athletic
-Queen's Park
-Dumbarton
-Falkirk
-Peterhead
-Stenhousemuir
-Raith Rovers
-Annan Athletic
-St Mirren
-Queen of the South
-Livingston
-Copa MX
-(9 Games)
 
-Correcaminos
-León
-Coras Tepic
-Guadalajara
-U. de G.
-Dorados de Sinaloa
-Puebla
-Lobos BUAP
-Atlante
-Cruz Azul
-UNAM
-Cafetaleros de Tapachula
-Necaxa
-Tijuana
-Murcielagos FC
-Atlas
-Veracruz
-Celaya
-Copa Sudamericana
+Team 1: Rostov Score: 1
+Team 2: Krylia Sovetov Samara Score: 1
+Time  : FT
+
+
+League: Turkish Super Lig
 (5 Games)
 
-Bolívar
-Defensor Sporting
-Melgar
-Atlético Junior
-Deportivo La Guaira
-U. Católica
-Libertad
-Santiago Wanderers
-Brasilia
-Goiás EC
-Primera División B de Argentina
-(2 Games)
 
-Deportivo Armenio
-Platense
-Deportivo Español
-Estudiantes de Caseros
-Primera División C de Argentina
-(3 Games)
+Team 1: Ankaraspor Score: 
+Team 2: Erciyesspor Score: 
+Time  : Postp
 
-Argentino Quilmes
-Cañuelas
-Deportivo Laferrere
-Argentino Merlo
-Midland
-Juventud Unida San Miguel
-Primera División D de Argentina
-(2 Games)
 
-Claypole
-El Porvenir
-Ituzaingó
-Deportivo Paraguayo
-South African Premiership
-(1 Game)
+Team 1: Ankaraspor Score: 1
+Team 2: Kayserispor Score: 1
+Time  : FT
 
-Orlando Pirates
-Chippa United
-UEFA Champions League
+
+Team 1: Konyaspor Score: 1
+Team 2: Akhisar Belediye  Score: 1
+Time  : FT
+
+
+Team 1: Gaziantepspor Score: 0
+Team 2: Kasimpasa Score: 3
+Time  : FT
+
+
+Team 1: Mersin Idmanyurdu Score: 2
+Team 2: Besiktas Score: 5
+Time  : FT
+
+
+League: Primera División de Argentina
 (5 Games)
 
-UEFA Champions League
-(5 Games)
 
-UEFA Champions League
-(5 Games)
+Team 1: Gimnasia La Plata Score: 4
+Team 2: Argentinos Juniors Score: 2
+Time  : FT
 
-Astana 1964
-Lazio
-Manchester United
-Sporting Lisbon
-BATE Borisov
-English League Championship
-(8 Games)
 
-Blackburn Rovers
-Brentford
-Derby County
-Huddersfield Town
-Ipswich Town
-Milton Keynes Dons
-Nottingham Forest
-Rotherham United
-CONCACAF Champions League
-(3 Games)
+Team 1: San Lorenzo Score: 2
+Team 2: Crucero del Norte Score: 1
+Time  : FT
 
-U.A.N.L
-Hankook Verdes
-LA Galaxy
-English League One
-(10 Games)
 
-Peterborough United
-Blackpool
-Bradford City
-Bury
-Colchester United
-Coventry City
-Millwall
-Rochdale
-Shrewsbury Town
-Swindon Town
-English League Two
-(12 Games)
+Team 1: Vélez Sarsfield Score: 2
+Team 2: Atletico Rafaela Score: 2
+Time  : FT
 
-Accrington Stanley
-AFC Wimbledon
-Barnet
-Crawley Town
-Dagenham & Redbridge
-Hartlepool United
-Leyton Orient
-Luton Town
-Morecambe
-Oxford United
-Plymouth Argyle
-York City
-English Conference
-(12 Games)
 
-Aldershot Town
-Altrincham
-Barrow
-Boreham Wood
-Bromley
-Chester City
-Kidderminster Harriers
-Lincoln City
-Southport
-Torquay United
-Tranmere Rovers
-Welling
-Scottish League Challenge Cup
-(6 Games)
+Team 1: Newell's Old Boys Score: 0
+Team 2: Temperley Score: 0
+Time  : FT
 
-Forfar Athletic
-Queen's Park
-Falkirk
-Stenhousemuir
-Annan Athletic
-Queen of the South
-Copa MX
-(9 Games)
 
-Correcaminos
-Coras Tepic
-U. de G.
-Puebla
-Atlante
-UNAM
-Necaxa
-Murcielagos FC
-Veracruz
-Copa Sudamericana
-(5 Games)
+Team 1: Arsenal de Sarandí Score: 1
+Team 2: Boca Juniors Score: 2
+Time  : FT
 
-Bolívar
-Melgar
-Deportivo La Guaira
-Libertad
-Brasilia
-Primera División B de Argentina
-(2 Games)
 
-Deportivo Armenio
-Deportivo Español
-Primera División C de Argentina
-(3 Games)
-
-Argentino Quilmes
-Deportivo Laferrere
-Midland
-Primera División D de Argentina
-(2 Games)
-
-Claypole
-Ituzaingó
-South African Premiership
-(1 Game)
-
-Orlando Pirates
-UEFA Champions League
-(5 Games)
-
-UEFA Champions League
-(5 Games)
-
-English League Championship
-(8 Games)
-
-CONCACAF Champions League
-(3 Games)
-
-English League One
-(10 Games)
-
-English League Two
-(12 Games)
-
-English Conference
-(12 Games)
-
-Scottish League Challenge Cup
-(6 Games)
-
-Copa MX
-(9 Games)
-
-Copa Sudamericana
-(5 Games)
-
-Primera División B de Argentina
-(2 Games)
-
-Primera División C de Argentina
-(3 Games)
-
-Primera División D de Argentina
-(2 Games)
-
-South African Premiership
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-Barclays Premier League
-(1 Game)
-
-Spanish Super Cup
-(1 Game)
-
-Italian Coppa Italia
-(2 Games)
-
-Portuguese Liga
-(1 Game)
-
-Russian Premier League
-(1 Game)
-
-Turkish Super Lig
-(1 Game)
-
-Primera División de Argentina
-(2 Games)
-
-Danish SAS-Ligaen
-(1 Game)
-
-German 2. Bundesliga
-(1 Game)
-
-French Ligue 2
-(1 Game)
-
-Dutch Eerste Divisie
-(1 Game)
-
-Swedish Allsvenskanliga
-(3 Games)
-
-League of Ireland Premier Division
-(6 Games)
-
-Primera División de Chile
-(1 Game)
-
-Primera División de Venezuela
-(1 Game)
-
-Nacional B de Argentina
-(3 Games)
-
-Primera División B de Argentina
-(4 Games)
-
-Colombia Segunda División
-(2 Games)
-
-Primera División C de Argentina
-(2 Games)
-
-Primera División D de Argentina
-(1 Game)
-
-UEFA Champions League
-(5 Games)
-
-Major League Soccer
-(2 Games)
-
-English League Championship
-(4 Games)
-
-North American Soccer League
-(1 Game)
-
-Women's International Friendly
-(1 Game)
-
-CONCACAF Champions League
-(3 Games)
-
-English League One
-(2 Games)
-
-Scottish League Challenge Cup
-(2 Games)
-
-Copa Argentina
-(1 Game)
-
-Copa Do Brazil
-(5 Games)
-
-Primera División de Chile
-(1 Game)
-
-Fútbol Profesional Colombiano
-(3 Games)
-
-Copa MX
-(5 Games)
-
-Malaysian Super League
-(6 Games)
-
-Singapore S-League
-(2 Games)
-
-Copa Sudamericana
+League: Futebol Brasileiro
 (7 Games)
 
-Nacional B de Argentina
+
+Team 1: Palmeiras Score: 4
+Team 2: Flamengo Score: 2
+Time  : FT
+
+
+Team 1: Avaí Score: 1
+Team 2: Corinthians Score: 2
+Time  : FT
+
+
+Team 1: Cruzeiro Score: 0
+Team 2: Internacional Score: 0
+Time  : FT
+
+
+Team 1: Fluminense FC Score: 2
+Team 2: Figueirense FC Score: 1
+Time  : FT
+
+
+Team 1: Sport Score: 1
+Team 2: AA Ponte Preta Score: 1
+Time  : FT
+
+
+Team 1: Chapecoense AF Score: 2
+Team 2: Atlético MG Score: 1
+Time  : FT
+
+
+Team 1: Gremio Score: 2
+Team 2: Joinville Score: 1
+Time  : FT
+
+
+League: Danish SAS-Ligaen
+(3 Games)
+
+
+Team 1: FC Nordsjaelland Score: 1
+Team 2: Esbjerg Score: 2
+Time  : FT
+
+
+Team 1: Viborg FF Score: 0
+Team 2: Brøndby Score: 4
+Time  : FT
+
+
+Team 1: Odense BK Score: 2
+Team 2: Randers FC Score: 3
+Time  : FT
+
+
+League: Belgian Jupiler League
+(3 Games)
+
+
+Team 1: KV Oostende Score: 3
+Team 2: Anderlecht Score: 1
+Time  : FT
+
+
+Team 1: KAA Gent Score: 1
+Team 2: St. Truiden Score: 0
+Time  : FT
+
+
+Team 1: OH Leuven Score: 2
+Team 2: Royal Charleroi SC Score: 0
+Time  : FT
+
+
+League: Women's International Friendly
 (1 Game)
 
-Primera División B de Argentina
+
+Team 1: United States Score: 8
+Team 2: Costa Rica  Score: 0
+Time  : FT
+
+
+League: English League One
 (1 Game)
 
-Primera División D de Argentina
+
+Team 1: Wigan Athletic Score: 0
+Team 2: Doncaster Rovers Score: 0
+Time  : FT
+
+
+League: Scottish Championship
 (1 Game)
 
-Thai Premier League
-(9 Games)
 
-Nigeria Professional League
+Team 1: Alloa Athletic Score: 1
+Team 2: Rangers Score: 5
+Time  : FT
+
+
+League: German 2. Bundesliga
+(3 Games)
+
+
+Team 1: FC Union Berlin Score: 2
+Team 2: Kaiserslautern Score: 2
+Time  : FT
+
+
+Team 1: MSV Duisburg Score: 2
+Team 2: Arminia Bielefeld Score: 2
+Time  : FT
+
+
+Team 1: St Pauli Score: 3
+Team 2: SpVgg Greuther Furth Score: 2
+Time  : FT
+
+
+League: Dutch Eerste Divisie
+(1 Game)
+
+
+Team 1: Go Ahead Eagles Score: 5
+Team 2: SC Stormvogels Telstar Score: 0
+Time  : FT
+
+
+League: Austrian Bundesliga
+(1 Game)
+
+
+Team 1: SK Sturm Graz Score: 2
+Team 2: Rapid Vienna Score: 2
+Time  : FT
+
+
+League: Swedish Allsvenskanliga
+(3 Games)
+
+
+Team 1: AIK Score: 2
+Team 2: Kalmar FF Score: 1
+Time  : FT
+
+
+Team 1: IFK Score: 4
+Team 2: BK Hacken Score: 0
+Time  : FT
+
+
+Team 1: Elfsborg Score: 2
+Team 2: Djurgarden Score: 0
+Time  : FT
+
+
+League: Primera División de Chile
+(2 Games)
+
+
+Team 1: Cobresal Score: 2
+Team 2: Colo Colo Score: 3
+Time  : FT
+
+
+Team 1: Universidad de Chile Score: 4
+Team 2: San Luis Score: 2
+Time  : FT
+
+
+League: Primera División de Uruguay
+(4 Games)
+
+
+Team 1: Cerro Score: 0
+Team 2: Peñarol Score: 3
+Time  : FT
+
+
+Team 1: El Tanque Sisley Score: 2
+Team 2: Racing (U) Score: 3
+Time  : FT
+
+
+Team 1: Juventud Score: 0
+Team 2: Danubio F.C. Score: 2
+Time  : FT
+
+
+Team 1: Wanderers Score: 1
+Team 2: Liverpool Score: 1
+Time  : FT
+
+
+League: Fútbol Profesional Colombiano
+(4 Games)
+
+
+Team 1: Deportivo Pasto Score: 3
+Team 2: Uniautonoma Score: 0
+Time  : FT
+
+
+Team 1: Deportivo Cali Score: 0
+Team 2: Aguilas Pereira Score: 0
+Time  : FT
+
+
+Team 1: Cúcuta Deportivo Score: 0
+Team 2: Cortuluá Score: 0
+Time  : FT
+
+
+Team 1: Once Caldas Score: 1
+Team 2: Jaguares de Córdoba Score: 1
+Time  : FT
+
+
+League: Primera Profesional de Perú
+(4 Games)
+
+
+Team 1: Melgar Score: 2
+Team 2: César Vallejo Score: 0
+Time  : FT
+
+
+Team 1: Unión Comercio Score: 1
+Team 2: Real Garcilaso Score: 1
+Time  : FT
+
+
+Team 1: UTC Score: 2
+Team 2: León de Huánuco Score: 2
+Time  : FT
+
+
+Team 1: Alianza Lima Score: 0
+Team 2: Deportivo Municipal Lima Score: 0
+Time  : FT
+
+
+League: Primera División de Paraguay
+(4 Games)
+
+
+Team 1: Deportivo Santaní Score: 2
+Team 2: Sportivo San Lorenzo Score: 1
+Time  : FT
+
+
+Team 1: Sol de América Score: 2
+Team 2: Libertad Score: 2
+Time  : FT
+
+
+Team 1: Deportivo Capiatá Score: 1
+Team 2: Olimpia Score: 2
+Time  : FT
+
+
+Team 1: Nacional Score: 0
+Team 2: Guaraní Score: 4
+Time  : FT
+
+
+League: Primera A de Ecuador
+(3 Games)
+
+
+Team 1: Deportivo Quito Score: 0
+Team 2: Aucas Score: 1
+Time  : FT
+
+
+Team 1: Barcelona Score: 0
+Team 2: River (E) Score: 1
+Time  : FT
+
+
+Team 1: Club Deportivo Cuenca Score: 0
+Team 2: Emelec Score: 1
+Time  : FT
+
+
+League: Primera División de Venezuela
 (6 Games)
+
+
+Team 1: Tucanes Score: 0
+Team 2: Zulia Score: 2
+Time  : FT
+
+
+Team 1: Deportivo Lara Score: 3
+Team 2: Estudiantes Caracas Score: 1
+Time  : FT
+
+
+Team 1: Llaneros Score: 0
+Team 2: Portuguesa Score: 1
+Time  : FT
+
+
+Team 1: Urena Score: 1
+Team 2: Estudiantes de Mérida Score: 0
+Time  : FT
+
+
+Team 1: Caracas F.C. Score: 0
+Team 2: Mineros Score: 0
+Time  : FT
+
+
+Team 1: Zamora Score: 3
+Team 2: Atlético Venezuela Score: 0
+Time  : FT
+
+
+League: Liga Profesional Boliviana
+(5 Games)
+
+
+Team 1: Ciclón de Tarija Score: 1
+Team 2: The Strongest Score: 3
+Time  : FT
+
+
+Team 1: Club Petrolero de Yacuiba Score: 2
+Team 2: Universitario de Sucre Score: 0
+Time  : FT
+
+
+Team 1: San José Score: 2
+Team 2: Oriente Petrolero Score: 1
+Time  : FT
+
+
+Team 1: Nacional Potosí Score: 2
+Team 2: Wilstermann Score: 2
+Time  : FT
+
+
+Team 1: Blooming Score: 2
+Team 2: Real Potosí Score: 1
+Time  : FT
+
+
+League: Primera División de Costa Rica
+(6 Games)
+
+
+Team 1: Cartagines Score: 1
+Team 2: Carmelita Score: 1
+Time  : FT
+
+
+Team 1: Universidad De Costa Rica Score: 0
+Team 2: Santos Score: 2
+Time  : FT
+
+
+Team 1: Municipal Liberia Score: 0
+Team 2: Limon Score: 0
+Time  : FT
+
+
+Team 1: Club Sport Uruguay Score: 4
+Team 2: Perez Zeledon Score: 3
+Time  : FT
+
+
+Team 1: Alajuelense Score: 0
+Team 2: Belen Score: 0
+Time  : FT
+
+
+Team 1: Saprissa Score: 0
+Team 2: Herediano Score: 0
+Time  : FT
+
+
+League: Primera División de El Salvador
+(3 Games)
+
+
+Team 1: CD Dragon Score: 5
+Team 2: Atletico Marte Score: 1
+Time  : FT
+
+
+Team 1: Juventud Independiente Score: 2
+Team 2: Chalatenango Score: 0
+Time  : FT
+
+
+Team 1: Alianza FC Score: 2
+Team 2: Pasaquina FC Score: 0
+Time  : FT
+
+
+League: Liga Nacional de Guatemala
+(5 Games)
+
+
+Team 1: Mictlan Score: 3
+Team 2: Coban Imperial Score: 0
+Time  : FT
+
+
+Team 1: Municipal Score: 3
+Team 2: Universidad de San Carlos Score: 2
+Time  : FT
+
+
+Team 1: Suchitepequez Score: 4
+Team 2: Malacateco Score: 1
+Time  : FT
+
+
+Team 1: Marquense Score: 1
+Team 2: Xelaju Score: 0
+Time  : FT
+
+
+Team 1: Guastatoya Score: 1
+Team 2: Petapa Score: 1
+Time  : FT
+
+
+League: Primera División de Honduras
+(2 Games)
+
+
+Team 1: Platense Score: 1
+Team 2: C.D.Real Sociedad Score: 1
+Time  : FT
+
+
+Team 1: Olimpia Score: 1
+Team 2: Real Espana Score: 2
+Time  : FT
+
+
+League: Nacional B de Argentina
+(8 Games)
+
+
+Team 1: Ferro Carril Oeste Score: 1
+Team 2: Guaraní A. Franco Score: 0
+Time  : FT
+
+
+Team 1: Guillermo Brown Score: 1
+Team 2: Instituto de Córdoba Score: 2
+Time  : FT
+
+
+Team 1: Boca Unidos Score: 0
+Team 2: Patronato Score: 0
+Time  : FT
+
+
+Team 1: Gimnasia (M) Score: 1
+Team 2: Juventud Unida (G) Score: 1
+Time  : FT
+
+
+Team 1: Sp. Belgrano Score: 2
+Team 2: Gimnasia y Esgrima de Jujuy Score: 1
+Time  : FT
+
+
+Team 1: Villa Dálmine Score: 0
+Team 2: Chacarita Juniors Score: 0
+Time  : FT
+
+
+Team 1: Unión (MDP) Score: 0
+Team 2: Douglas Haig Score: 0
+Time  : FT
+
+
+Team 1: Atlético Tucumán Score: 2
+Team 2: Santamarina Score: 1
+Time  : FT
+
+
+League: Primera División B de Argentina
+(1 Game)
+
+
+Team 1: Colegiales Score: 0
+Team 2: Brown de Adrogué Score: 1
+Time  : FT
+
+
+League: Colombia Segunda División
+(4 Games)
+
+
+Team 1: Leones FC Score: 0
+Team 2: Bucaramanga Score: 1
+Time  : FT
+
+
+Team 1: Real Santander Score: 1
+Team 2: Fortaleza CE Score: 1
+Time  : FT
+
+
+Team 1: Llaneros Score: 2
+Team 2: Dépor FC Score: 1
+Time  : FT
+
+
+Team 1: Real Cartagena Score: 3
+Team 2: Barranquilla FC Score: 3
+Time  : FT
+
+
+League: Primera División C de Argentina
+(1 Game)
+
+
+Team 1: San Martín Burzaco Score: 0
+Team 2: Luján Score: 1
+Time  : FT
+
+
+League: Primera División D de Argentina
+(3 Games)
+
+
+Team 1: Central Ballester Score: 0
+Team 2: Liniers Score: 1
+Time  : FT
+
+
+Team 1: Victoriano Arenas Score: 1
+Team 2: Barracas Bolívar Score: 2
+Time  : FT
+
+
+Team 1: Yupanqui Score: 1
+Team 2: Lugano Score: 2
+Time  : FT
+
+
+League: Thai Premier League
+(3 Games)
+
+
+Team 1: Port Score: 
+Team 2: SCG Muangthong United Score: 
+Time  : Postp
+
+
+Team 1: Bangkok Glass Score: 4
+Team 2: Navy Football Club Score: 1
+Time  : FT
+
+
+Team 1: BEC-Tero Sasana Score: 1
+Team 2: Chonburi Score: 2
+Time  : FT
+
+
+League: Norwegian Tippeligaen
+(5 Games)
+
+
+Team 1: IK Start Score: 0
+Team 2: Odd Grenland Score: 4
+Time  : FT
+
+
+Team 1: Mjondalen IF Score: 2
+Team 2: Haugesund Score: 1
+Time  : FT
+
+
+Team 1: Rosenborg Score: 2
+Team 2: Valerenga Score: 0
+Time  : FT
+
+
+Team 1: Tromso Score: 1
+Team 2: Sandefjord Score: 1
+Time  : FT
+
+
+Team 1: Stabaek Score: 3
+Team 2: Lillestrom Score: 2
+Time  : FT
+
+
+League: Nigeria Professional League
+(8 Games)
+
+
+Team 1: Akwa United Score: 3
+Team 2: Sharks Score: 1
+Time  : FT
+
+
+Team 1: Enugu Rangers Score: 2
+Team 2: Gabros Score: 3
+Time  : FT
+
+
+Team 1: Kano Pillars Score: 4
+Team 2: Shooting Stars SC Score: 1
+Time  : FT
+
+
+Team 1: Kwara United Score: 0
+Team 2: Wikki Tourists Score: 1
+Time  : FT
+
+
+Team 1: Lobi Stars Score: 2
+Team 2: Taraba FC Score: 1
+Time  : FT
+
+
+Team 1: Nasarawa United Score: 2
+Team 2: Heartland Score: 0
+Time  : FT
+
+
+Team 1: Sunshine Stars Score: 4
+Team 2: Giwa FC Score: 0
+Time  : FT
+
+
+Team 1: Warri Wolves Score: 1
+Team 2: Dolphins Score: 0
+Time  : FT
+
 
