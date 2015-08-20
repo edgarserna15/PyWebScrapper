@@ -12,12 +12,23 @@ class MainApplication(Tkinter.Tk):
 
         self.entry = Tkinter.Entry(self)
         self.entry.grid(column=0,row=0,sticky='EW')
+        self.entry.bind("<Return>", self.OnPressEnter)
 
-        button = Tkinter.Button(self, text=u"Search")
-        button.grid(column=1,row0)
+        button = Tkinter.Button(self, text=u"Search", command=self.OnButtonClick())
+        button.grid(column=1,row=0)
 
-        label = Tkinter.Label(self, anchor="w", fg="white", bg="blue")
+        label = Tkinter.Label(self, anchor="w", fg="black", bg="grey")
         label.grid(column=0,row=1,columnspan=2,sticky='EW')
+
+        self.grid_columnconfigure(0,weight=1)
+        self.resizable(True,False)
+
+    def OnButtonClick(self):
+        print "You Clicked the button!"
+
+    def OnPressEnter(self, event):
+        print "You press enter!"
+        
 
 if __name__ == "__main__":
     app = MainApplication(None)
